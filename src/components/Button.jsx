@@ -13,7 +13,7 @@ export const Button = styled.button`
   cursor: pointer;
   padding: 8px 16px;
   font-size: 1em;
-  background-color: #dd4b64;
+  background-color: #1395ba;
   color: #fff;
   border: 1px solid #af1e66;
   
